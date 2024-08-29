@@ -1,16 +1,15 @@
 # Gatsby Portfolio Website
 
-This repo contains a static website written with [GatsbyJS](https://www.gatsbyjs.org/), integrated with content coming from [DatoCMS](https://www.datocms.com).
+This repository contains some of my  portfolio's projects presented as a static website.written with [GatsbyJS](https://www.gatsbyjs.org/), integrated with content coming from [DatoCMS](https://www.datocms.com).
 
 ![Preview](preview.png)
 
 [See the live demo](https://demo-datocms-gatsby.netlify.com/)
 
-If you want to use try this out yourself, you first need to set up a project on DatoCMS which will host your data.
+I love learning and sharing, and in my free time, I enjoy doing sport and volunteering. If you are interested in cooperation or in any way I could help, please feel free to contact me.
 
-You can [sign up for a free account](https://dashboard.datocms.com/signup) and then you can simply click this button:
 
-[![Deploy with DatoCMS](https://dashboard.datocms.com/deploy/button.svg)](https://dashboard.datocms.com/projects/new-from-template/static-website/gatsby-portfolio)
+To use this template, follow the instructions below:
 
 ## Repo usage
 
